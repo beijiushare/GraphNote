@@ -184,18 +184,102 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Pfr7g7HSbmwsOVpsN5ls" name="热力学第一定律">
-    <mxGraphModel dx="1185" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="711" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0Uton0JrI5fSdaMCYnbq-4" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="200" x="320" y="40" as="geometry" />
+          <mxGeometry height="60" width="200" x="305" y="40" as="geometry" />
         </mxCell>
         <mxCell id="0Uton0JrI5fSdaMCYnbq-1" parent="0Uton0JrI5fSdaMCYnbq-4" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.plaque;dx=6;whiteSpace=wrap;rounded=0;align=center;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="60" width="200" as="geometry" />
         </mxCell>
         <mxCell id="0Uton0JrI5fSdaMCYnbq-2" parent="0Uton0JrI5fSdaMCYnbq-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;热力学第一定律&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="180" x="10" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeColor=#b85450;opacity=40;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;在热能和其他形式能的互相转换过程中，能的总量始终不变&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="270" x="270" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-2" edge="1" parent="1" source="0Uton0JrI5fSdaMCYnbq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="gPs-mYcywnEpRmFi_GvJ-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;不花费能量就可以产生功的第一类&lt;/b&gt;永动机是不可能制造成功的&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="555" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;一切热力过程中必须遵循的能量转换和守恒定律&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="70" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=2;hachureGap=8;fillColor=#e1d5e7;fillStyle=dots;sketch=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;闭口系统&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="180" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=2;hachureGap=8;fillColor=#e1d5e7;fillStyle=dots;sketch=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;开口系统&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="550" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-9" parent="1" style="line;strokeWidth=1;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;dashed=1;dashPattern=8 4 1 4;" value="" vertex="1">
+          <mxGeometry height="10" width="770" x="30" y="257" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$Q-W=\Delta U$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;吸热&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-12" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.645;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;" target="gPs-mYcywnEpRmFi_GvJ-11" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="170" y="370" as="sourcePoint" />
+            <mxPoint x="160" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;膨胀功&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-14" edge="1" parent="1" source="gPs-mYcywnEpRmFi_GvJ-10" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.322;exitY=0.964;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.478;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;" target="gPs-mYcywnEpRmFi_GvJ-13" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="190" y="440" as="sourcePoint" />
+            <mxPoint x="290" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;热力学能的变化&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="250" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-16" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gPs-mYcywnEpRmFi_GvJ-15" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="280" y="370" as="sourcePoint" />
+            <mxPoint x="410" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;微元过程：&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="70" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$\delta&amp;nbsp; Q=dU+\delta W$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;可逆（准平衡）：&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="67" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$Q=\Delta U+\int_1^2pdV$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="gPs-mYcywnEpRmFi_GvJ-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$\delta Q=dU+pdV$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="228" y="526" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs2I3iUg13lLrKks5JZp-1" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="40" y="480" as="sourcePoint" />
+            <mxPoint x="40" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vs2I3iUg13lLrKks5JZp-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;对于绝热系统：&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="70" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs2I3iUg13lLrKks5JZp-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;$$Q=0,\Delta U=-W$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
