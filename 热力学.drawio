@@ -1064,7 +1064,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LEs-1UxSIxzO31zWjJgR" name="水蒸气与湿空气">
-    <mxGraphModel dx="406" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1422" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1161,7 +1161,7 @@
           <mxGeometry height="30" width="60" x="60" y="350" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-1" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="160" x="120" y="440" as="geometry" />
+          <mxGeometry height="60" width="160" x="139" y="441" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-2" parent="53-teKoPvIKKRSWhqky2-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.plaque;dx=6;whiteSpace=wrap;rounded=0;align=center;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="40" width="160" y="10" as="geometry" />
@@ -1170,34 +1170,34 @@
           <mxGeometry height="30" width="144" x="8" y="15" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="性质和理想气体相差很大" vertex="1">
-          <mxGeometry height="30" width="110" x="125" y="520" as="geometry" />
+          <mxGeometry height="30" width="110" x="144" y="521" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="所有理想气体方程均不能用" vertex="1">
-          <mxGeometry height="30" width="110" x="125" y="570" as="geometry" />
+          <mxGeometry height="30" width="110" x="144" y="571" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="查表，不考计算" vertex="1">
-          <mxGeometry height="30" width="120" x="113" y="620" as="geometry" />
+          <mxGeometry height="30" width="120" x="132" y="621" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="$$r=h^{&quot;}-h&#39;$$" vertex="1">
-          <mxGeometry height="30" width="60" x="183" y="660" as="geometry" />
+          <mxGeometry height="30" width="60" x="202" y="661" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="汽化潜热" vertex="1">
-          <mxGeometry height="30" width="80" x="93" y="660" as="geometry" />
+          <mxGeometry height="30" width="80" x="112" y="661" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="对湿蒸汽" vertex="1">
-          <mxGeometry height="30" width="75" x="88" y="700" as="geometry" />
+          <mxGeometry height="30" width="75" x="107" y="701" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="$$v$$" vertex="1">
-          <mxGeometry height="30" width="30" x="158" y="700" as="geometry" />
+          <mxGeometry height="30" width="30" x="177" y="701" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="$$x=\frac{v-v^{\prime}}{v^{^{\prime \prime}}-v^{\prime}}=\frac{当前状态-饱和水}{干蒸汽-饱和水}$$" vertex="1">
-          <mxGeometry height="30" width="60" x="207" y="750" as="geometry" />
+          <mxGeometry height="30" width="60" x="226" y="751" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="干度" vertex="1">
-          <mxGeometry height="30" width="60" x="53" y="750" as="geometry" />
+          <mxGeometry height="30" width="60" x="72" y="751" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-15" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="160" x="480" y="440" as="geometry" />
+          <mxGeometry height="60" width="160" x="499" y="441" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-16" parent="53-teKoPvIKKRSWhqky2-15" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.plaque;dx=6;whiteSpace=wrap;rounded=0;align=center;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="40" width="160" y="10" as="geometry" />
@@ -1206,16 +1206,58 @@
           <mxGeometry height="30" width="144" x="8" y="15" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="根据湿空气中所含水蒸气状态是否饱和，或者湿空气是否具有吸收水分的能力，可将其分为未饱和湿空气和饱和湿空气" vertex="1">
-          <mxGeometry height="30" width="290" x="410" y="530" as="geometry" />
+          <mxGeometry height="30" width="290" x="429" y="531" as="geometry" />
         </mxCell>
         <mxCell id="53-teKoPvIKKRSWhqky2-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(181, 115, 157);&quot;&gt;露点：&lt;/font&gt;&lt;/b&gt;湿空气中水蒸气分压力`p_v` 所对应的饱和温度，称为露点温度，简称露点`T_d`" vertex="1">
-          <mxGeometry height="30" width="290" x="410" y="585" as="geometry" />
+          <mxGeometry height="30" width="290" x="429" y="586" as="geometry" />
         </mxCell>
         <mxCell id="HUijMb74WIGyhQqRpPvE-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(181, 115, 157);&quot;&gt;绝对湿度：&lt;/font&gt;&lt;/b&gt;`1m^3`湿空气中所含水蒸气质量。它等于按照`T`和水蒸气分压力`p_v`确认的水蒸气密度`rho _v`" vertex="1">
-          <mxGeometry height="30" width="330" x="390" y="630" as="geometry" />
+          <mxGeometry height="30" width="330" x="409" y="631" as="geometry" />
         </mxCell>
         <mxCell id="VkkzMqaRFHLXqePd8x0A-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="`rho_v=m/V =(p_v)/(R_(g,v)T)`" vertex="1">
-          <mxGeometry height="30" width="160" x="480" y="680" as="geometry" />
+          <mxGeometry height="30" width="160" x="499" y="681" as="geometry" />
+        </mxCell>
+        <mxCell id="VkkzMqaRFHLXqePd8x0A-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="`rho_v`的最大值`rho_s`，此时即为饱和湿空气" vertex="1">
+          <mxGeometry height="30" width="270" x="444" y="721" as="geometry" />
+        </mxCell>
+        <mxCell id="VkkzMqaRFHLXqePd8x0A-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(181, 115, 157);&quot;&gt;相对湿度：&lt;/font&gt;&lt;/b&gt;`psi=(rho_v)/(rho_s)`" vertex="1">
+          <mxGeometry height="30" width="150" x="499" y="761" as="geometry" />
+        </mxCell>
+        <mxCell id="VkkzMqaRFHLXqePd8x0A-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(181, 115, 157);&quot;&gt;含湿量（比湿量）：&lt;/font&gt;&lt;/b&gt;湿空气中，与单位质量干空气共存的水蒸气的质量" vertex="1">
+          <mxGeometry height="30" width="280" x="449" y="801" as="geometry" />
+        </mxCell>
+        <mxCell id="VkkzMqaRFHLXqePd8x0A-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="`d=(m_v)/(m_a)=rho_v/rho_a`" vertex="1">
+          <mxGeometry height="30" width="130" x="522" y="851" as="geometry" />
+        </mxCell>
+        <mxCell id="VkkzMqaRFHLXqePd8x0A-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#b1ddf0;sketch=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeColor=#10739e;opacity=40;" value="&lt;span style=&quot;font-family: 宋体; font-size: 15px;&quot;&gt;加热吸湿&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="182" y="841" as="geometry" />
+        </mxCell>
+        <mxCell id="Wozs4ouupOpsZz0k57IK-9" edge="1" parent="1" source="Wozs4ouupOpsZz0k57IK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=15;fontColor=default;" target="Wozs4ouupOpsZz0k57IK-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wozs4ouupOpsZz0k57IK-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=2;hachureGap=8;fillColor=#d5e8d4;fillStyle=dots;sketch=1;rounded=0;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=15;strokeColor=#82b366;" value="未饱和湿空气" vertex="1">
+          <mxGeometry height="40" width="110" x="69" y="911" as="geometry" />
+        </mxCell>
+        <mxCell id="Wozs4ouupOpsZz0k57IK-3" edge="1" parent="1" source="Wozs4ouupOpsZz0k57IK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=15;fontColor=default;" target="Wozs4ouupOpsZz0k57IK-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wozs4ouupOpsZz0k57IK-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="加热" vertex="1">
+          <mxGeometry height="30" width="60" x="47" y="991" as="geometry" />
+        </mxCell>
+        <mxCell id="Wozs4ouupOpsZz0k57IK-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="`d`不变，`t`增大,`psi`降低，吸湿能力增强" vertex="1">
+          <mxGeometry height="30" width="140" x="89" y="981" as="geometry" />
+        </mxCell>
+        <mxCell id="Wozs4ouupOpsZz0k57IK-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=2;hachureGap=8;fillColor=#d5e8d4;fillStyle=dots;sketch=1;rounded=0;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=15;strokeColor=#82b366;" value="进入干燥室吸湿" vertex="1">
+          <mxGeometry height="40" width="130" x="259" y="911" as="geometry" />
+        </mxCell>
+        <mxCell id="Wozs4ouupOpsZz0k57IK-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="`d`和`psi`均增大，`t`降低&lt;div&gt;这一过程中，水分蒸发吸收的潜热完全来源于热空气本身，因此是一个绝热加湿过程&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="206" x="245" y="981" as="geometry" />
+        </mxCell>
+        <mxCell id="Wozs4ouupOpsZz0k57IK-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#b1ddf0;sketch=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeColor=#10739e;opacity=40;" value="&lt;span style=&quot;font-family: 宋体; font-size: 15px;&quot;&gt;冷却去湿&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="589" y="911" as="geometry" />
+        </mxCell>
+        <mxCell id="Wozs4ouupOpsZz0k57IK-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontSize=15;fontColor=default;" value="冷却时，温度降低，温度降至露点前，`d`不变，`psi`增大，增大到1时，继续冷却，这个过程中`psi=1`，`d`减少,`T`降低" vertex="1">
+          <mxGeometry height="30" width="265" x="499" y="981" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
