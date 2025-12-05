@@ -467,7 +467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="koatXM2pMwdNL1sLGWBE" name="理想气体的性质与热力过程">
-    <mxGraphModel dx="2844" dy="2192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1630" math="1" shadow="0">
+    <mxGraphModel dx="395" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1630" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -749,7 +749,7 @@
         <mxCell id="CvsAMU1374q37IgKR2FQ-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$\Delta s={{c_{v}\ln\frac{T_{2}}{T_{1}}+R_{g}\ln\frac{v_{2}}{v_{1}}}}$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="160" y="860" as="geometry" />
         </mxCell>
-        <mxCell id="CvsAMU1374q37IgKR2FQ-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$={{c_{p}\ln\frac{T_{2}}{T_{1}}-R_{g}\ln\frac{v_{2}}{p_{1}}}} $$&lt;/font&gt;" vertex="1">
+        <mxCell id="CvsAMU1374q37IgKR2FQ-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$={{c_{p}\ln\frac{T_{2}}{T_{1}}-R_{g}\ln\frac{p_{2}}{p_{1}}}} $$&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="175" y="908" as="geometry" />
         </mxCell>
         <mxCell id="CvsAMU1374q37IgKR2FQ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" value="$$={{c_{v}\ln\frac{p_{2}}{p_{1}}+c_{p}\ln\frac{v_{2}}{v_{1}}}}$$" vertex="1">
