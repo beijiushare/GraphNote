@@ -1,0 +1,51 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="第 1 页" id="9wvYZJ1twnezE0uOuQW-">
+    <mxGraphModel dx="766" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+      <root>
+        <UserObject label="" animation="" id="0">
+          <mxCell />
+        </UserObject>
+        <mxCell id="1" parent="0" />
+        <mxCell id="7BdFtoS1pigBIpzm-pJS-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CDA2BE4D;sketch=1;strokeColor=#A1678ACC;" parent="1" vertex="1">
+          <mxGeometry x="340" y="40" width="130" height="70" as="geometry" />
+        </mxCell>
+        <object label="&lt;font face=&quot;东京街角的小浪漫&quot; style=&quot;font-size: 60px;-webkit-text-stroke: 0.2px white;&quot;&gt;关于&lt;/font&gt;" id="关于">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+            <mxGeometry x="336" y="27" width="140" height="90" as="geometry" />
+          </mxCell>
+        </object>
+        <UserObject label="点击访问https://www.drawio.com/" link="https://www.drawio.com/" id="drawio链接">
+          <mxCell style="text;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+            <mxGeometry x="326" y="292" width="160" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="man" id="man">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+            <mxGeometry x="160" y="220" width="50" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" id="箭">
+          <mxCell style="endArrow=classic;html=1;rounded=0;endSize=8;strokeWidth=1.5;flowAnimation=1;" edge="1" parent="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="220" y="226" as="sourcePoint" />
+              <mxPoint x="330" y="116" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="" id="M2oOY6ICfIO_c_JY1RzO-9">
+          <mxCell style="endArrow=classic;html=1;rounded=0;endSize=8;strokeWidth=1.5;flowAnimation=1;" edge="1" parent="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="406" y="130" as="sourcePoint" />
+              <mxPoint x="406" y="280" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <UserObject label="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;获取源文件&lt;/h1&gt;&lt;p&gt;内容存储在Github仓库中，要获取页面源文件，请点击访问：&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;https://github.com/beijiushare/drawio，&lt;/span&gt;&lt;/p&gt;&lt;p&gt;clone本仓库或下载相应文件&lt;/p&gt;" link="https://github.com/beijiushare/drawio" id="M2oOY6ICfIO_c_JY1RzO-13">
+          <mxCell style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="540" y="150" width="214" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

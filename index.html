@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>drawio列表</title>
+    <style>
+        @import url("https://fontsapi.zeoseven.com/452/main/result.css");
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: HanaMinA, sans-serif;
+            font-weight: normal;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #000000;
+        }
+        
+        .category-list {
+            list-style-type: none;
+        }
+        
+        .category-item {
+            border-radius: 9.2px;
+            margin-bottom: 20px;
+            border: 1px solid #8c7676;
+            padding-bottom: 15px;
+        }
+        
+        .category-name {
+            background-color: #6d7b89;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 8px 8px 0 0;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .address-list {
+            list-style-type: none;
+            margin-top: 10px;
+            margin-left: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .address-item {
+            padding: 6px 10px;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+            display: inline-block;
+            white-space: nowrap;
+        }
+        
+        .address-item a {
+            text-decoration: none;
+            color: #333;
+            display: block;
+        }
+        
+        .address-item a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>drawio列表</h1>
+        <ul class="category-list" id="categoryList"></ul>
+    </div>
+    
+    <script>
+        const categoryData = [
+            {
+                name: "热工基础",
+                addresses: [
+                    "传热学",
+                    "热力学"
+                ]
+            },
+            {
+                "name": "其他项",
+                "addresses": [
+                    "关于"
+                ]
+            }
+        ];
+        
+        function renderCategoryList() {
+            const categoryList = document.getElementById('categoryList');
+            
+            categoryList.innerHTML = '';
+            
+            // 遍历数据，生成列表
+            categoryData.forEach((category, index) => {
+                // 创建列表项
+                const categoryItem = document.createElement('li');
+                categoryItem.className = 'category-item';
+                
+                // 创建分类
+                const categoryName = document.createElement('div');
+                categoryName.className = 'category-name';
+                categoryName.textContent = category.name;
+                
+                // 创建地址列表
+                const addressList = document.createElement('ul');
+                addressList.className = 'address-list';
+                
+                // 生成地址列表项
+                category.addresses.forEach(file_name => {
+                    const addressItem = document.createElement('li');
+                    addressItem.className = 'address-item';
+                    
+                    const address = `draw_book/${category.name}/${file_name}.drawio.html`;
+
+                    // 创建可点击的链接
+                    const link = document.createElement('a');
+                    link.href = address;
+                    link.textContent = file_name;
+                    link.target = '_blank'; 
+                    
+                    addressItem.appendChild(link);
+                    addressList.appendChild(addressItem);
+                });
+                
+                // 组装列表项
+                categoryItem.appendChild(categoryName);
+                categoryItem.appendChild(addressList);
+                categoryList.appendChild(categoryItem);
+            });
+        }
+        
+        // 渲染列表
+        document.addEventListener('DOMContentLoaded', renderCategoryList);
+    </script>
+</body>
+</html>
