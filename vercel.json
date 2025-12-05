@@ -1,5 +1,7 @@
 {
-  "ignore": [
-    "**/*.drawio"
-  ]
+  "files": {
+    "exclude": [
+      "**/*.drawio"
+    ]
+  }
 }
