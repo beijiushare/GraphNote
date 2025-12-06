@@ -1,0 +1,26 @@
+# GraphNote 开源协议声明
+© 2025 by beijiushare
+
+## 一、内容类资产授权
+1. 授权范围：目录`draw_book/其他项`下的全部非图片资源（非图片资源定义为无法被Drawio应用识别为图片格式的文件），以及本项目其他所有目录下的全部内容，均适用本授权条款。
+2. 协议类型：采用 CC BY-SA 4.0 开源协议授权。
+3. 要查看此许可证的副本，可访问 https://creativecommons.org/licenses/by-sa/4.0/。
+
+## 二、代码类资产授权
+1. 授权范围：本项目中所有代码文件。
+2. 协议类型：采用 MIT 开源协议授权。
+3. 要查看此许可证的副本，可访问 https://mit-license.org/。
+
+
+# GraphNote Open Source License Statement
+© 2025 by beijiushare
+
+## 1. Authorization for Content Assets
+1. Scope of Authorization: All non-image resources in the directory `draw_book/其他项` (non-image resources are defined as files that cannot be recognized as image formats by the Drawio application), as well as all content in other directories of this project, shall be subject to this authorization clause.
+2. License Type: Licensed under CC BY-SA 4.0.
+3. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.
+
+## 2. Authorization for Code Assets
+1. Scope of Authorization: All code files in this project.
+2. License Type: Licensed under the MIT License.
+3. To view a copy of this license, visit https://mit-license.org/.
