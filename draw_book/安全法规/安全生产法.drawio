@@ -1,9 +1,181 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9" pages="2">
   <diagram name="第 1 页" id="PNycLWAdDv7NQsVImhAT">
-    <mxGraphModel dx="753" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="950" math="0" shadow="0">
+    <mxGraphModel dx="847" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MxSpa_MJjvgTRes0Xxan-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 140%;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 加强安全生产工作，防止和减少安全生产事故，保障人民群众生命财产安全，促进经济社会持续健康发展&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="170" x="28" y="268" as="geometry" />
+        </mxCell>
+        <mxCell id="MxSpa_MJjvgTRes0Xxan-4" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIiB2aWV3Qm94PSIwLjAwMDA4NDUxMDIxODU4NDkxMDA0IDAgMTQxNy44NDYwNjkzMzU5Mzc1IDEwMjQiIHZlcnNpb249IjEuMSIgd2lkdGg9IjI1Ni4xNTI4NTM3NDAyOTY0IiBoZWlnaHQ9IjI1NiI+PHBhdGggZD0iTTE0MTcuODQ2MTU0IDkwNS44NDYxNTRhMTE4LjE1Mzg0NiAxMTguMTUzODQ2IDAgMCAxLTExOC4xNTM4NDYgMTE4LjE1Mzg0NmgtMTE4MS41Mzg0NjJhMTE4LjE1Mzg0NiAxMTguMTUzODQ2IDAgMCAxIDAtMjM2LjMwNzY5Mkg3OC43NjkyMzFjMC0yNTQuNzM5NjkyIDIyNy45NTgxNTQtNTc4LjQ4MTIzMSA0ODAuNzI4NjE1LTY3Ny44MDkyMzFBMTU3LjA2NTg0NiAxNTcuMDY1ODQ2IDAgMCAxIDcwOC45MjMwNzcgMGM3MC4yNjIxNTQgMCAxMjkuMTAyNzY5IDQ2LjMxNjMwOCAxNDkuNDI1MjMxIDEwOS44ODMwNzdDMTExMS4xMTg3NjkgMjA5LjIxMTA3NyAxMzM5LjA3NjkyMyA1MzIuOTUyNjE1IDEzMzkuMDc2OTIzIDc4Ny42OTIzMDhoLTM5LjM4NDYxNWExMTguMTUzODQ2IDExOC4xNTM4NDYgMCAwIDEgMTE4LjE1Mzg0NiAxMTguMTUzODQ2ek02MzAuMTUzODQ2IDMxNS4wNzY5MjNINTUxLjM4NDYxNXYzOTMuODQ2MTU0aDc4Ljc2OTIzMVYzMTUuMDc2OTIzeiBtMjM2LjMwNzY5MiAwaC03OC43NjkyM3YzOTMuODQ2MTU0aDc4Ljc2OTIzVjMxNS4wNzY5MjN6IG00MzMuMjMwNzcgNTUxLjM4NDYxNWgtMTE4MS41Mzg0NjJhMzkuMzg0NjE1IDM5LjM4NDYxNSAwIDAgMCAwIDc4Ljc2OTIzMWgxMTgxLjUzODQ2MmEzOS4zODQ2MTUgMzkuMzg0NjE1IDAgMCAwIDAtNzguNzY5MjMxeiIgZmlsbD0iI2JmYmZiZiIvPjwvc3ZnPg==;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MxSpa_MJjvgTRes0Xxan-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;霞鹜文楷&quot; style=&quot;font-size: 60px;&quot;&gt;安全生产法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="320" x="69.5" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MxSpa_MJjvgTRes0Xxan-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="&lt;font face=&quot;霞鹜文楷&quot;&gt;安全生产法制不健全&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="30" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MxSpa_MJjvgTRes0Xxan-13" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points" />
+            <mxPoint x="33.5" y="187" as="sourcePoint" />
+            <mxPoint x="179.5" y="187" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxSpa_MJjvgTRes0Xxan-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;" value="一条分隔线" vertex="1">
+          <mxGeometry height="30" width="100" x="179.5" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MxSpa_MJjvgTRes0Xxan-15" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points" />
+            <mxPoint x="279.5" y="186.41" as="sourcePoint" />
+            <mxPoint x="426.5" y="186.82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxSpa_MJjvgTRes0Xxan-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#67AB9F;strokeColor=#82b366;arcSize=12;spacing=2;spacingBottom=4;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%;&quot;&gt;立法目的&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="30" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="MxSpa_MJjvgTRes0Xxan-30" edge="1" parent="1" source="MxSpa_MJjvgTRes0Xxan-9" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="230" />
+              <mxPoint x="230" y="260" />
+              <mxPoint x="230" y="290" />
+              <mxPoint x="220" y="310" />
+            </Array>
+            <mxPoint x="200" y="260" as="sourcePoint" />
+            <mxPoint x="210" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxSpa_MJjvgTRes0Xxan-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=1;fontSize=15;shadow=1;" value="&lt;font face=&quot;霞鹜文楷&quot;&gt;&lt;u style=&quot;&quot;&gt;效果显著&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="279.5" y="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5Dpw55THQUZ9zfTU5DhB" name="第 2 页">
+    <mxGraphModel dx="1029" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-81z5W3v-pItYDdy8HH8-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;fillColor=none;gradientColor=none;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="470" width="780" x="80" y="120" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;基础知识&lt;/b&gt;&lt;/font&gt;" tooltip="点击访问 https://www.drawio.com/" link="https://mit-license.org/" linkTarget="_blank" id="-81z5W3v-pItYDdy8HH8-1">
+          <mxCell parent="1" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#B2C9AB;strokeColor=none;rounded=1;glass=1;shadow=1;direction=south;overflow=visible;portConstraint=none;labelBackgroundColor=none;fontColor=#46495D;" vertex="1">
+            <mxGeometry height="40" width="120" x="394.5" y="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-2" parent="1" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;fillColor=none;gradientColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="10" width="620" x="170" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#67AB9F;strokeColor=#82b366;arcSize=12;spacing=2;spacingBottom=4;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;上位法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="32" x="730" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#67AB9F;strokeColor=#82b366;arcSize=12;spacing=2;spacingBottom=4;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;下位法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="32" x="120" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#990000;strokeColor=#990000;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;宪法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="319.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#990000;strokeColor=#990000;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;法律&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="319.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#990000;strokeColor=#990000;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;行政法规&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="319.5" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#990000;strokeColor=#990000;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;部门规章&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="220" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#990000;strokeColor=#990000;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;地方法规&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="470" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#990000;strokeColor=#990000;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;地方规章&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="470" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#7196CB;strokeColor=#7EA6E0;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;全国人大&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80.5" x="409.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#7196CB;strokeColor=#7EA6E0;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;人大及其常委会&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="409.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#7196CB;strokeColor=#7EA6E0;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;国务院&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="429.5" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#7196CB;strokeColor=#7EA6E0;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 17px;&quot;&gt;各部委&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="120" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#7196CB;strokeColor=#7EA6E0;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;地方人大&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="590" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#7196CB;strokeColor=#7EA6E0;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;地方政府&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="590" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#333333;strokeColor=none;arcSize=50;spacing=2;spacingBottom=4;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 16px;&quot;&gt;法律地位&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="21" x="220" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#A3688D;strokeColor=none;arcSize=50;spacing=2;spacingBottom=4;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 16px;&quot;&gt;法律效力&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="21" x="220" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;" value="上位高于下位" vertex="1">
+          <mxGeometry height="140" width="30" x="250" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#333333;strokeColor=none;arcSize=50;spacing=2;spacingBottom=4;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 16px;&quot;&gt;法律地位&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="80" x="319.5" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#A3688D;strokeColor=none;arcSize=50;spacing=2;spacingBottom=4;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 16px;&quot;&gt;法律效力&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="80" x="319.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;" value="不能比较" vertex="1">
+          <mxGeometry height="30" width="40" x="410" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#333333;strokeColor=none;arcSize=50;spacing=2;spacingBottom=4;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 16px;&quot;&gt;法律地位&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="21" x="505" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#A3688D;strokeColor=none;arcSize=50;spacing=2;spacingBottom=4;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 16px;&quot;&gt;法律效力&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="21" x="535" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;" value="上级高于下级" vertex="1">
+          <mxGeometry height="80" width="40" x="570" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;fontStyle=4" value="&lt;font style=&quot;color: rgb(153, 0, 0);&quot;&gt;有地域限制&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="610" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-48" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" value="">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points" />
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="460" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#333333;strokeColor=none;arcSize=50;spacing=2;spacingBottom=4;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 16px;&quot;&gt;法律地位&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="21" x="288.5" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;" value="&lt;font style=&quot;color: rgb(153, 0, 0);&quot;&gt;不能相比&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="40" x="240" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#A3688D;strokeColor=none;arcSize=50;spacing=2;spacingBottom=4;" value="&lt;font style=&quot;color: rgb(255, 255, 255); line-height: 100%; font-size: 16px;&quot;&gt;法律效力&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="21" x="329" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 181, 181)); background-color: transparent;&quot;&gt;同等，在各自权限范围内施行&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="50.5" x="359.5" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#333333;strokeColor=none;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;……法&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80.5" x="566" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#333333;strokeColor=none;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;……条例&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="530" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#333333;strokeColor=none;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;…地方…条例&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="710" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#333333;strokeColor=none;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;规定/办法/细则&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="120" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="-81z5W3v-pItYDdy8HH8-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=霞鹜文楷;fontSize=15;fillColor=#333333;strokeColor=none;arcSize=12;spacing=2;spacingBottom=3;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;…地方&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;规定/办法/细则&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="710" y="500" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
