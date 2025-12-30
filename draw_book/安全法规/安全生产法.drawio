@@ -55,7 +55,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5Dpw55THQUZ9zfTU5DhB" name="第 2 页">
-    <mxGraphModel dx="2140" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="500" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,6 +352,9 @@
         </mxCell>
         <mxCell id="7yEVb7-9B1Rmq7VEISR8-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;" value="&lt;div style=&quot;text-align: justify; line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;凡在中华人民共和国领域内从事生产经营的单位，另有规定的，适用其规定&lt;u&gt;（&lt;/u&gt;&lt;/span&gt;&lt;font style=&quot;color: rgb(153, 0, 0);&quot;&gt;&lt;u&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;消防、铁路、&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;辐射、&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;航空/水上/道路 交通、特种设备）&lt;/span&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="40" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="DUdZJC1a9KWKPtPafbwv-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=霞鹜文楷;fontSize=15;fontColor=default;" value="&lt;font style=&quot;color: rgb(153, 0, 0);&quot;&gt;有专门法律，但安全生产法依旧适用！&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="320" y="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
